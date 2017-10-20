@@ -1,7 +1,7 @@
 # CurrentRead.py
 python code for calculating the amperage pull in an A/C circuit, using a CT transformer and a ADC  chip.
 
-
+--------------------------------------------
 Code was based off of the code and the circuit for the arduino open energy monitor program, and adapted for use on a pi.
 -> https://learn.openenergymonitor.org/
 
